@@ -1,0 +1,8 @@
+
+{
+  "name": "PropTrader - Funding Enrollment",
+  "description": "A high-end prop trading firm enrollment platform featuring multiple funding plans, broker selection, and a streamlined crypto payment verification process.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
